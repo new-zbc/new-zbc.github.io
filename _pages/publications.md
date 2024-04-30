@@ -12,6 +12,4 @@ author_profile: true
 (* corresponding author, # co-first author)
 
 # Statistical Papers
-{% include base_path %}
 
-{% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %}
