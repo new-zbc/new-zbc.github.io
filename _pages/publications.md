@@ -15,7 +15,7 @@ redirect_from:
 
 Statistical Papers
 ==========
-* Bayesian Nonparametric Clustering with Feature Selection for Spatially Resolved Transcriptomics Data [Arxiv](https://arxiv.org/abs/2312.08324)[GitHub](https://github.com/new-zbc/BNPSpace)
+* Bayesian Nonparametric Clustering with Feature Selection for Spatially Resolved Transcriptomics Data [[Arxiv](https://arxiv.org/abs/2312.08324)] [[GitHub](https://github.com/new-zbc/BNPSpace)] <br>
   Bencong Zhu, Guanyu Hu, Yang Xie, Lin Xu, Xiaodan Fan , and Qiwei Li
 
 * NetMIM: Network-based multi-omics integration with block missingness for biomarker selection and disease outcome prediction
