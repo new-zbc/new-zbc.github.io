@@ -22,9 +22,9 @@ repository               : "new-zbc/new-zbc.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "PhD candidate in Statistics"
+  name             : "Bencong Zhu"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "PhD candidate in Statistics"
   location         : "Hong Kong"
   employer         : "The Chinese University of Hong Kong"
   uri              : # URL
