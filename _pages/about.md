@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at Department of Statistics in [The Chinese University of Hong Kong](https://www.sta.cuhk.edu.hk/). 
+I am a Ph.D. candidate at Department of Statistics in [The Chinese University of Hong Kong](https://www.sta.cuhk.edu.hk/) (since 2020). My research interest is in Bayesian statistics, Bayesian nonparametric statistics, multi-omics integration, and statistics computing. I focus on developing novel statistical model to solve biological problems, including clustering single-cell RNAseq data and spatial transcriptomics data. 
+Before that, I received M.S. degree (2019) in Medicine Chemistry and B.S degree (2017) in Pharmaceutical Science from School of Pharmaceutical Science at Peking University.
 
 A data-driven personal website
 ======
