@@ -19,11 +19,11 @@ Work Experience
 ======
 * Sep. 2023 - Dec. 2023: Visiting Student
   * University of Texas at Dallas
-  * Supervisor: Qiwei Li
+  * Supervisor: [Qiwei Li](https://sites.google.com/site/liqiwei2000/Home)
 
 * Sep. 2019 - Aug. 2020: Research Assistant
   * The Chinese University of Hong Kong
-  * Supervisor: Xiaodan Fan
+  * Supervisor: [Xiaodan Fan](https://www.sta.cuhk.edu.hk/peoples/xfan/)
   
 Skills
 ======
