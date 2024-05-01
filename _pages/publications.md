@@ -13,11 +13,19 @@ redirect_from:
 
 (* corresponding author, # co-first author)
 
-Statistical Papers
+Statistical Publications
 ==========
-* Bayesian Nonparametric Clustering with Feature Selection for Spatially Resolved Transcriptomics Data [[Arxiv](https://arxiv.org/abs/2312.08324)] [[GitHub](https://github.com/new-zbc/BNPSpace)] <br>
-  Bencong Zhu, Guanyu Hu, Yang Xie, Lin Xu, Xiaodan Fan , and Qiwei Li
+* Bencong Zhu, Guanyu Hu, Yang Xie, Lin Xu, Xiaodan Fan , and Qiwei Li. Bayesian Nonparametric Clustering with Feature Selection for Spatially Resolved Transcriptomics Data [[Arxiv](https://arxiv.org/abs/2312.08324)] [[GitHub](https://github.com/new-zbc/BNPSpace)] <be>
 
-* NetMIM: Network-based multi-omics integration with block missingness for biomarker selection and disease outcome prediction
-  Bencong Zhu, Zhen Zhang, 
+* Tejasv Bedi, Bencong Zhu, Michael L Neugent, Kevin C Lutz, Nicole J De Nisco, and Qiwei Li. Bayesian modeling of co-occurrence microbial interaction networks. [[Arxiv](https://arxiv.org/abs/2404.09194)]
+
+* Bencong Zhu, Zhen Zhang, Seut Yi Leung, Xiaodan Fan. NetMIM: Network-based multi-omics integration with block missingness for biomarker selection and disease outcome prediction. (2023) *Briefings in Bioinformatics* in revision
+
+* Huimin Li, Bencong Zhu*, Xi Jiang, Lei Guo, Yang Xie, Lin Xu, and Qiwei Li. An interpretable Bayesian clustering approach with feature selection for analyzing spatially resolved transcriptomics data. (2023), *Biometrics*, revision submitted [[link](https://www.biorxiv.org/content/10.1101/2023.05.10.540273v1)]
+
+* Xi Jiang, Shidan Wang, Lei Guo, Bencong Zhu, Zhuoyu Wen, Liwei Jia, Lin Xu, Guanhua Xiao, and Qiwei Li. Integrating image and molecular profiles for spatial transcriptomics analysis. (2023) *Genome Biology*, revision submitted [[link](https://www.biorxiv.org/content/10.1101/2023.06.18.545488v1)]
+
+Other Publications
+============
+* Bencong Zhu, Tao Shen, Xiaoqiang Huang, Yuchao Zhu, Song Song, Ning Jiao. Selective aerobic oxygenation of tertiary allylic alcohols with molecular oxygen. (2019) *Angewandte Chemie International Edition* 56 (39), 11940-11944
 
