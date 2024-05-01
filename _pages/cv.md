@@ -15,7 +15,7 @@ Education
 * M.S. in Medicine Chemistry, Peking University, 2019
 * B.S. in Pharmaceutical Science, Peking University, 2017
 
-Work ESxperience
+Work Experience
 ======
 * Sep. 2023 - Dec. 2023: Visiting Student
   * University of Texas at Dallas
