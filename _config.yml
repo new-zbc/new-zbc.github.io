@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "Hong Kong"
-title                    : "Bencong Zhu"
+title                    : "Welcome to Bencong's pages"
 title_separator          : "-"
-name                     : &name "Bencong Zhu"
+name                     : &name "Welcome to Bencong's pages"
 description              : &description "PhD candidate in The Chinese University of Hong Kong"
 URL                      : "https://new-zbc.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
