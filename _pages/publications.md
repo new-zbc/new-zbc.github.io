@@ -31,7 +31,7 @@ Other Publications
 ============
 * Bencong Zhu, Tao Shen, Xiaoqiang Huang, Yuchao Zhu, Song Song, Ning Jiao. Selective aerobic oxygenation of tertiary allylic alcohols with molecular oxygen. (2019) *Angewandte Chemie International Edition*, 56 (39), 11940-11944
 
-* Junhua Li, Jialiang Wei, Bencong Zhu, Teng Wang, Ning Jiao. Cu-catalyzed oxygenation of alkene-tethered amides with O\_2 via unactivated C=C bond cleavage: a direct approach to cyclic imides. (2019) *Chemical Science*, 10 (39), 9099-9103
+* Junhua Li, Jialiang Wei, Bencong Zhu, Teng Wang, Ning Jiao. Cu-catalyzed oxygenation of alkene-tethered amides with O2 via unactivated C=C bond cleavage: a direct approach to cyclic imides. (2019) *Chemical Science*, 10 (39), 9099-9103
 
 * Tao Shen, Bencong Zhu, Fengguirong Lin, Jun Pan, Jialiang Wei, Xiao Luo, Jianzhong Liu, Ning Jiao. Direct synthesis of structurally divergent indole alkaloids from simple chemicals. (2018) *Chinese journal of chemistry*, 36 (9), 815-818
 
