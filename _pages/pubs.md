@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,7 +15,7 @@ Education
 * M.S. in Medicine Chemistry, Peking University, 2019
 * B.S. in Pharmaceutical Science, Peking University, 2017
 
-Work experience
+Work Experience
 ======
 * Sep. 2023 - Dec. 2023: Visiting Student
   * University of Texas at Dallas
