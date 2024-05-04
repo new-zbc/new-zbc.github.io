@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Statistics, The Chinese University of Hong Kong, 2024 (expected)
-* M.S. in Medicine Chemistry, Peking University, 2019
+* M.S. in Medicinal Chemistry, Peking University, 2019
 * B.S. in Pharmaceutical Science, Peking University, 2017
 
 Work Experience
