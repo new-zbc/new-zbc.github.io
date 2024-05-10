@@ -23,7 +23,7 @@ Statistical Publications
 
 * Huimin Li, **Bencong Zhu**\*, Xi Jiang, Lei Guo, Yang Xie, Lin Xu, and Qiwei Li. An interpretable Bayesian clustering approach with feature selection for analyzing spatially resolved transcriptomics data. (2023) *Biometrics*, revision submitted [[link](https://www.biorxiv.org/content/10.1101/2023.05.10.540273v1)]
 
-* Xi Jiang, Shidan Wang, Lei Guo, **Bencong Zhu**, Zhuoyu Wen, Liwei Jia, Lin Xu, Guanhua Xiao, and Qiwei Li. Integrating image and molecular profiles for spatial transcriptomics analysis. (2023) *Genome Biology*, accpted [[link](https://www.biorxiv.org/content/10.1101/2023.06.18.545488v1)]
+* Xi Jiang, Shidan Wang, Lei Guo, **Bencong Zhu**, Zhuoyu Wen, Liwei Jia, Lin Xu, Guanhua Xiao, and Qiwei Li. Integrating image and molecular profiles for spatial transcriptomics analysis. (2023) *Genome Biology*, accepted [[link](https://www.biorxiv.org/content/10.1101/2023.06.18.545488v1)]
 
 * Jin Du, Chaojie Wang, Lijun Wang, Shanjun Mao, **Bencong Zhu**, Zheng Li, Xiaodan Fan. Automatic block-wise genotype-phenotype association detection based on hidden Markov model. (2023) *BMC Bioinformatics*, 24 (1), 138
 
