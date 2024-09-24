@@ -21,13 +21,13 @@ Statistical Publications
 
 * Tejasv Bedi<sup>#</sup>, **Bencong Zhu<sup>#</sup>**, Michael L Neugent, Kevin C Lutz, Nicole J De Nisco, and Qiwei Li. Bayesian modeling of co-occurrence microbial interaction networks. [[Arxiv](https://arxiv.org/abs/2404.09194)]
 
-* **Bencong Zhu**, Zhen Zhang, Seut Yi Leung, Xiaodan Fan. NetMIM: Network-based multi-omics integration with block missingness for biomarker selection and disease outcome prediction. (2023) *Briefings in Bioinformatics*, accept
+* **Bencong Zhu**, Zhen Zhang, Seut Yi Leung, Xiaodan Fan. NetMIM: Network-based multi-omics integration with block missingness for biomarker selection and disease outcome prediction. (2023) *Briefings in Bioinformatics*, 25 (5), bbae454 [[link](https://academic.oup.com/bib/article/25/5/bbae454/7759099)]
 
-* Huimin Li, **Bencong Zhu**\*, Xi Jiang, Lei Guo, Yang Xie, Lin Xu, and Qiwei Li. An interpretable Bayesian clustering approach with feature selection for analyzing spatially resolved transcriptomics data. (2023) *Biometrics*, accept [[link](https://www.biorxiv.org/content/10.1101/2023.05.10.540273v1)]
+* Huimin Li, **Bencong Zhu**\*, Xi Jiang, Lei Guo, Yang Xie, Lin Xu, and Qiwei Li. An interpretable Bayesian clustering approach with feature selection for analyzing spatially resolved transcriptomics data. (2023) *Biometrics*, 80 (3), ujae066 [[link](https://www.biorxiv.org/content/10.1101/2023.05.10.540273v1)]
 
 * Mengyu Li, **Bencong Zhu**, Cheng Meng, and Xiaodan Fan. Double optimal transport for gene regulatory network reconstruction with unpaired samples. Submitted to *Bioinformatics*.
 
-* Yanghong Guo, **Bencong Zhu**, Chen Tang, Ruichen Rong, Lin Xu, Qiwei Li. Bayesian Clustering of Multi-sample Spatially Resolved Transcriptomics Data. (2024) *Briefings in Bioinformatics*, in revision
+* Yanghong Guo, **Bencong Zhu**, Chen Tang, Ruichen Rong, Lin Xu, Qiwei Li. Bayesian Clustering of Multi-sample Spatially Resolved Transcriptomics Data. (2024) *Briefings in Bioinformatics*, accept
 
 * Xi Jiang, Shidan Wang, Lei Guo, **Bencong Zhu**, Zhuoyu Wen, Liwei Jia, Lin Xu, Guanhua Xiao, and Qiwei Li. Integrating image and molecular profiles for spatial transcriptomics analysis. (2024) *Genome Biology*, 25, 147 [[link](https://link.springer.com/article/10.1186/s13059-024-03289-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240606&utm_content=10.1186%2Fs13059-024-03289-5)]
 
