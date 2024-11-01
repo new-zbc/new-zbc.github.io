@@ -19,7 +19,7 @@ Statistical Publications
 
 * **Bencong Zhu**, Guanyu Hu, Yang Xie, Lin Xu, Xiaodan Fan , and Qiwei Li. Bayesian Nonparametric Clustering with Feature Selection for Spatially Resolved Transcriptomics Data. (2024) *The Annals of Applied Statistics* in revision [[Arxiv](https://arxiv.org/abs/2312.08324)] [[GitHub](https://github.com/new-zbc/BNPSpace)] <be>
 
-**Bencong Zhu<sup>#</sup>**, Tejasv Bedi<sup>#</sup>, Michael L Neugent, Kevin C Lutz, Nicole J De Nisco, and Qiwei Li. Bayesian modeling of co-occurrence microbial interaction networks. [[Arxiv](https://arxiv.org/abs/2404.09194)]
+* **Bencong Zhu<sup>#</sup>**, Tejasv Bedi<sup>#</sup>, Michael L Neugent, Kevin C Lutz, Nicole J De Nisco, and Qiwei Li. Bayesian modeling of co-occurrence microbial interaction networks. [[Arxiv](https://arxiv.org/abs/2404.09194)]
 
 * **Bencong Zhu**, Zhen Zhang, Seut Yi Leung, Xiaodan Fan. NetMIM: Network-based multi-omics integration with block missingness for biomarker selection and disease outcome prediction. (2023) *Briefings in Bioinformatics*, 25 (5), bbae454 [[link](https://academic.oup.com/bib/article/25/5/bbae454/7759099)]
 
