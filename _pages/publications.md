@@ -15,17 +15,19 @@ redirect_from:
 
 Statistical Publications
 ==========
-* **Bencong Zhu**, Guanyu Hu, Xiaodan Fan , and Qiwei Li. Generalized Bayesian nonparametric clustering framework for high-dimensional spatial omics data. (2024) [[Arixv](http://arxiv.org/abs/2408.14410)]
+* **Bencong Zhu**, Xiaodan Fan, and Qiwei Li. Bi-clustering of spatial omics data with feature selection. (2024) [[Arixv]()]
+
+* **Bencong Zhu**, Guanyu Hu, Xiaodan Fan, and Qiwei Li. Generalized Bayesian nonparametric clustering framework for high-dimensional spatial omics data. (2024) [[Arixv](http://arxiv.org/abs/2408.14410)]
 
 * **Bencong Zhu**, Guanyu Hu, Yang Xie, Lin Xu, Xiaodan Fan , and Qiwei Li. Bayesian Nonparametric Clustering with Feature Selection for Spatially Resolved Transcriptomics Data. (2024) *The Annals of Applied Statistics* in revision [[Arxiv](https://arxiv.org/abs/2312.08324)] [[GitHub](https://github.com/new-zbc/BNPSpace)] <be>
+
+* Mengyu Li<sup>#</sup>, **Bencong Zhu<sup>#</sup>**, Cheng Meng, and Xiaodan Fan. Double optimal transport for gene regulatory network reconstruction with unpaired samples. (2024) *Bioinformatics* in revision.
 
 * **Bencong Zhu<sup>#</sup>**, Tejasv Bedi<sup>#</sup>, Michael L Neugent, Kevin C Lutz, Nicole J De Nisco, and Qiwei Li. Bayesian modeling of co-occurrence microbial interaction networks. [[Arxiv](https://arxiv.org/abs/2404.09194)]
 
 * **Bencong Zhu**, Zhen Zhang, Seut Yi Leung, Xiaodan Fan. NetMIM: Network-based multi-omics integration with block missingness for biomarker selection and disease outcome prediction. (2023) *Briefings in Bioinformatics*, 25 (5), bbae454 [[link](https://academic.oup.com/bib/article/25/5/bbae454/7759099)]
 
 * Huimin Li, **Bencong Zhu**\*, Xi Jiang, Lei Guo, Yang Xie, Lin Xu, and Qiwei Li. An interpretable Bayesian clustering approach with feature selection for analyzing spatially resolved transcriptomics data. (2023) *Biometrics*, 80 (3), ujae066 [[link](https://www.biorxiv.org/content/10.1101/2023.05.10.540273v1)]
-
-* Mengyu Li, **Bencong Zhu**, Cheng Meng, and Xiaodan Fan. Double optimal transport for gene regulatory network reconstruction with unpaired samples. Submitted to *Bioinformatics*.
 
 * Yanghong Guo, **Bencong Zhu**, Chen Tang, Ruichen Rong, Lin Xu, Qiwei Li. Bayesian Clustering of Multi-sample Spatially Resolved Transcriptomics Data. (2024) *Briefings in Bioinformatics*, 25 (6), bbae524 [[link](https://doi.org/10.1093/bib/bbae524)]
 
