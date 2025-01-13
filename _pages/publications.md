@@ -19,7 +19,7 @@ Statistical Publications
 
 * **Bencong Zhu**, Guanyu Hu, Xiaodan Fan, and Qiwei Li. Generalized Bayesian nonparametric clustering framework for high-dimensional spatial omics data. (2024) [[Arixv](http://arxiv.org/abs/2408.14410)]
 
-* **Bencong Zhu**, Guanyu Hu, Yang Xie, Lin Xu, Xiaodan Fan , and Qiwei Li. Bayesian Nonparametric Clustering with Feature Selection for Spatially Resolved Transcriptomics Data. (2024) *The Annals of Applied Statistics* accept [[Arxiv](https://arxiv.org/abs/2312.08324)] [[GitHub](https://github.com/new-zbc/BNPSpace)] <be>
+* **Bencong Zhu**, Guanyu Hu, Yang Xie, Lin Xu, Xiaodan Fan , and Qiwei Li. Bayesian Nonparametric Clustering with Feature Selection for Spatially Resolved Transcriptomics Data. (2024) *The Annals of Applied Statistics* accepted [[Arxiv](https://arxiv.org/abs/2312.08324)] [[GitHub](https://github.com/new-zbc/BNPSpace)] <be>
 
 * Mengyu Li<sup>#</sup>, **Bencong Zhu<sup>#</sup>**, Cheng Meng, and Xiaodan Fan. Double optimal transport for gene regulatory network reconstruction with unpaired samples. (2024) *Bioinformatics* in revision.
 
