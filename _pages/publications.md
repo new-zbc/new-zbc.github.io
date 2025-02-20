@@ -23,6 +23,9 @@ Statistical Publications
 
 * Mengyu Li<sup>#</sup>, **Bencong Zhu<sup>#</sup>**, Cheng Meng, and Xiaodan Fan. Double optimal transport for gene regulatory network reconstruction with unpaired samples. (2024) *Bioinformatics* in revision.
 
+* Zhen Zhang<sup>#</sup>, **Bencong Zhu<sup>#</sup>**, Yongyi Luo, ..., and Xiaodan Fan. Direct Inference of Haplotypes from Sequencing
+Data. (2025) *Submitted*.
+
 * **Bencong Zhu<sup>#</sup>**, Tejasv Bedi<sup>#</sup>, Michael L Neugent, Kevin C Lutz, Nicole J De Nisco, and Qiwei Li. Bayesian modeling of co-occurrence microbial interaction networks. [[Arxiv](https://arxiv.org/abs/2404.09194)]
 
 * **Bencong Zhu**, Zhen Zhang, Seut Yi Leung, Xiaodan Fan. NetMIM: Network-based multi-omics integration with block missingness for biomarker selection and disease outcome prediction. (2023) *Briefings in Bioinformatics*, 25 (5), bbae454 [[link](https://academic.oup.com/bib/article/25/5/bbae454/7759099)]
