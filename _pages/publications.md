@@ -15,7 +15,7 @@ redirect_from:
 
 Statistical Publications
 ==========
-* **Bencong Zhu**, Xiaodan Fan, and Qiwei Li. Bi-clustering of spatial omics data with feature selection. (2024) [[Arixv]()]
+* **Bencong Zhu**, Xiaodan Fan, and Qiwei Li. Bi-clustering of spatial omics data with feature selection. (2024) [[Arixv](http://arxiv.org/abs/2502.13453)]
 
 * **Bencong Zhu**, Guanyu Hu, Xiaodan Fan, and Qiwei Li. Generalized Bayesian nonparametric clustering framework for high-dimensional spatial omics data. (2024) [[Arixv](http://arxiv.org/abs/2408.14410)]
 
