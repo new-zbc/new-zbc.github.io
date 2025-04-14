@@ -15,7 +15,7 @@ redirect_from:
 
 Statistical Publications
 ==========
-* **Bencong Zhu**, Alberto Cassese, Marina Vannucci, Michele Guindani, and Qiwei Li. Bi-clustering of spatial omics data with feature selection. (2024) [[Arixv](http://arxiv.org/abs/2502.13453)]
+* **Bencong Zhu**, Alberto Cassese, Marina Vannucci, Michele Guindani, and Qiwei Li. Bi-clustering of spatial omics data with feature selection. (2024) [[Arixv](http://arxiv.org/abs/2502.13453)] *Bioinformatics* in revision
 
 * **Bencong Zhu**, Guanyu Hu, Xiaodan Fan, and Qiwei Li. Generalized Bayesian nonparametric clustering framework for high-dimensional spatial omics data. (2024) [[Arixv](http://arxiv.org/abs/2408.14410)]
 
