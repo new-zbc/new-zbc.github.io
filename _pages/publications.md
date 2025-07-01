@@ -19,7 +19,7 @@ Statistical Publications
 * **Bencong Zhu**, Guanyu Hu, Xiaodan Fan, and Qiwei Li. Generalized Bayesian nonparametric clustering framework for high-dimensional spatial omics data. (2024) [[Arixv](http://arxiv.org/abs/2408.14410)]
 
 * Zhen Zhang<sup>#</sup>, **Bencong Zhu<sup>#</sup>**, Yongyi Luo, ..., and Xiaodan Fan. Direct Inference of Haplotypes from Sequencing
-Data. (2025) *Bioinformatics Advance* in revision.
+Data. (2025) *Bioinformatics Advances* in revision.
 
 * **Bencong Zhu**, Alberto Cassese, Marina Vannucci, Michele Guindani, and Qiwei Li. Bi-clustering of spatial omics data with feature selection. (2024) [[Arixv](http://arxiv.org/abs/2502.13453)] *Bioinformatics* in revision
 
