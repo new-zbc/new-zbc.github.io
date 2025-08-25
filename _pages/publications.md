@@ -16,12 +16,12 @@ redirect_from:
 Statistical Publications
 ==========
 
-* **Bencong Zhu**, Guanyu Hu, Xiaodan Fan, and Qiwei Li. Generalized Bayesian nonparametric clustering framework for high-dimensional spatial omics data. (2024) [[Arixv](http://arxiv.org/abs/2408.14410)]
+* **Bencong Zhu**, Guanyu Hu, Xiaodan Fan, and Qiwei Li. Generalized Bayesian nonparametric clustering framework for high-dimensional spatial omics data. (2024) [[Arixv](http://arxiv.org/abs/2408.14410)] *Journal of the American Statistical Association* in revision.
 
 * Zhen Zhang<sup>#</sup>, **Bencong Zhu<sup>#</sup>**, Yongyi Luo, ..., and Xiaodan Fan. Direct Inference of Haplotypes from Sequencing
 Data. (2025) *Bioinformatics Advances* in press.
 
-* **Bencong Zhu**, Alberto Cassese, Marina Vannucci, Michele Guindani, and Qiwei Li. Bi-clustering of spatial omics data with feature selection. (2024) [[Arixv](http://arxiv.org/abs/2502.13453)] *Bioinformatics* in revision
+* **Bencong Zhu**, Alberto Cassese, Marina Vannucci, Michele Guindani, and Qiwei Li. Bi-clustering of spatial omics data with feature selection. (2024) [[Arixv](http://arxiv.org/abs/2502.13453)] *Bioinformatics* accepted
 
 
 * **Bencong Zhu<sup>#</sup>**, Tejasv Bedi<sup>#</sup>, Michael L Neugent, Kevin C Lutz, Nicole J De Nisco, and Qiwei Li. Bayesian modeling of co-occurrence microbial interaction networks. [[Arxiv](https://arxiv.org/abs/2404.09194)] *Journal of the Royal Statistical Society: Series C* in revision
