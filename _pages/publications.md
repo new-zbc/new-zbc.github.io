@@ -18,8 +18,7 @@ Statistical Publications
 
 * **Bencong Zhu**, Guanyu Hu, Xiaodan Fan, and Qiwei Li. Generalized Bayesian nonparametric clustering framework for high-dimensional spatial omics data. (2024) [[Arixv](http://arxiv.org/abs/2408.14410)] *Journal of the American Statistical Association* in revision.
 
-
-* **Bencong Zhu<sup>#</sup>**, Tejasv Bedi<sup>#</sup>, Michael L Neugent, Kevin C Lutz, Nicole J De Nisco, and Qiwei Li. Bayesian modeling of co-occurrence microbial interaction networks. [[Arxiv](https://arxiv.org/abs/2404.09194)] *Journal of the Royal Statistical Society: Series C* in revision
+* **Bencong Zhu<sup>#</sup>**, Tejasv Bedi<sup>#</sup>, Michael L Neugent, Kevin C Lutz, Nicole J De Nisco, and Qiwei Li. Bayesian modeling of co-occurrence microbial interaction networks. (2026) *Journal of the Royal Statistical Society: Series C: Applied Statistics*, qlag043 [[link](https://doi.org/10.1093/jrsssc/qlag043)]
 
 * Zhen Zhang<sup>#</sup>, **Bencong Zhu<sup>#</sup>**, Yongyi Luo, ..., and Xiaodan Fan. Direct Inference of Haplotypes from Sequencing
 Data. (2025) *Bioinformatics Advances*, 5 (1), vbaf195. [[link](https://doi.org/10.1093/bioadv/vbaf195)]
@@ -31,6 +30,8 @@ Data. (2025) *Bioinformatics Advances*, 5 (1), vbaf195. [[link](https://doi.org/
 * **Bencong Zhu**, Guanyu Hu, Yang Xie, Lin Xu, Xiaodan Fan , and Qiwei Li. Bayesian Nonparametric Clustering with Feature Selection for Spatially Resolved Transcriptomics Data. (2024) *The Annals of Applied Statistics*, 19 (2), 1028-1047 [[Arxiv](https://arxiv.org/abs/2312.08324)] [[GitHub](https://github.com/new-zbc/BNPSpace)] <be>
 
 * **Bencong Zhu**, Zhen Zhang, Seut Yi Leung, Xiaodan Fan. NetMIM: Network-based multi-omics integration with block missingness for biomarker selection and disease outcome prediction. (2023) *Briefings in Bioinformatics*, 25 (5), bbae454 [[link](https://academic.oup.com/bib/article/25/5/bbae454/7759099)]
+
+* Bryn M Brakefield, Huimin Li, **Bencong Zhu**, Kevin W Jin, Stephen E McKeown, Qiwei Li. Bayesian Clustering of n-gons. (2026) *Bayesian Analysis*, 1 (1), 1-26 [[link](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Bayesian-Clustering-of-n-gons/10.1214/26-BA1601.full)]
 
 * Huimin Li, **Bencong Zhu**, Xi Jiang, Lei Guo, Yang Xie, Lin Xu, and Qiwei Li. An interpretable Bayesian clustering approach with feature selection for analyzing spatially resolved transcriptomics data. (2023) *Biometrics*, 80 (3), ujae066 [[link](https://www.biorxiv.org/content/10.1101/2023.05.10.540273v1)]
 
