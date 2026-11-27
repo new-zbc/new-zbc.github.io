@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Hong Kong"
+locale                   : "Shenzhen"
 title                    : "Welcome to Bencong's pages"
 title_separator          : "-"
 name                     : &name "Welcome to Bencong's pages"
-description              : &description "Postdoc at The Chinese University of Hong Kong"
+description              : &description "Assistant professor at Shenzhen University"
 URL                      : "https://new-zbc.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "new-zbc/new-zbc.github.io"
@@ -25,10 +25,10 @@ author:
   name             : "Bencong Zhu"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc in Statistics"
-  location         : "Hong Kong"
-  employer         : "The Chinese University of Hong Kong"
+  location         : "Shenzhen"
+  employer         : "Shenzhen University"
   uri              : # URL
-  email            : "BencongZhu@link.cuhk.edu.hk" 
+  email            : "zhubencong@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
