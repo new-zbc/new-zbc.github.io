@@ -16,7 +16,8 @@ redirect_from:
 Statistical Publications
 ==========
 
-* **Bencong Zhu**, Guanyu Hu, Xiaodan Fan, and Qiwei Li. Generalized Bayesian nonparametric clustering framework for high-dimensional spatial omics data. (2024) [[Arixv](http://arxiv.org/abs/2408.14410)] *Journal of the American Statistical Association* in revision.
+* **Bencong Zhu**, Guanyu Hu, Xiaodan Fan, and Qiwei Li. Bayesian joint factor analysis and clustering
+in spatial transcriptomics. (2026) [[Arixv](http://arxiv.org/abs/2408.14410)] *Journal of the American Statistical Association* in press.
 
 * **Bencong Zhu<sup>#</sup>**, Tejasv Bedi<sup>#</sup>, Michael L Neugent, Kevin C Lutz, Nicole J De Nisco, and Qiwei Li. Bayesian modeling of co-occurrence microbial interaction networks. (2026) *Journal of the Royal Statistical Society: Series C: Applied Statistics*, qlag043 [[link](https://doi.org/10.1093/jrsssc/qlag043)]
 
